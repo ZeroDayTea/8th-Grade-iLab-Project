@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iLab Space Shooter Project", "Assembly-CSharp.csproj", "{FFF50491-7C31-5D27-9764-C455E3654AF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iLab Space Shooter Project", "Assembly-CSharp-Editor.csproj", "{7D263447-B610-A6AB-A60A-F371905271BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFF50491-7C31-5D27-9764-C455E3654AF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF50491-7C31-5D27-9764-C455E3654AF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF50491-7C31-5D27-9764-C455E3654AF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF50491-7C31-5D27-9764-C455E3654AF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D263447-B610-A6AB-A60A-F371905271BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D263447-B610-A6AB-A60A-F371905271BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D263447-B610-A6AB-A60A-F371905271BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D263447-B610-A6AB-A60A-F371905271BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
